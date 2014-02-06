@@ -1,4 +1,4 @@
-phphitcounter
+PHP Hit Counterr
 =============
 
-Simple file based Hit counter in PHP
+This is a simple file based hit counter made in PHP. 
